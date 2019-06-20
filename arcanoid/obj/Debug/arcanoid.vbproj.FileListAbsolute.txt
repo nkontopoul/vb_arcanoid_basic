@@ -1,0 +1,10 @@
+c:\users\nikiforos\documents\visual studio 2013\Projects\arcanoid\arcanoid\bin\Debug\arcanoid.exe.config
+C:\Users\Nikiforos\documents\visual studio 2013\Projects\arcanoid\arcanoid\bin\Debug\arcanoid.exe
+C:\Users\Nikiforos\documents\visual studio 2013\Projects\arcanoid\arcanoid\bin\Debug\arcanoid.pdb
+C:\Users\Nikiforos\documents\visual studio 2013\Projects\arcanoid\arcanoid\bin\Debug\arcanoid.xml
+C:\Users\Nikiforos\documents\visual studio 2013\Projects\arcanoid\arcanoid\obj\Debug\arcanoid.Form1.resources
+C:\Users\Nikiforos\documents\visual studio 2013\Projects\arcanoid\arcanoid\obj\Debug\arcanoid.Resources.resources
+C:\Users\Nikiforos\documents\visual studio 2013\Projects\arcanoid\arcanoid\obj\Debug\arcanoid.vbproj.GenerateResource.Cache
+C:\Users\Nikiforos\documents\visual studio 2013\Projects\arcanoid\arcanoid\obj\Debug\arcanoid.exe
+C:\Users\Nikiforos\documents\visual studio 2013\Projects\arcanoid\arcanoid\obj\Debug\arcanoid.xml
+C:\Users\Nikiforos\documents\visual studio 2013\Projects\arcanoid\arcanoid\obj\Debug\arcanoid.pdb
